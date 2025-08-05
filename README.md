@@ -1,4 +1,4 @@
-nTJSON — Nebula TJSON Parser
+## nTJSON — Nebula TJSON Parser
 
 **nTJSON** is a modern and extensible JSON parser and encoder written in Haxe.
 
@@ -56,7 +56,7 @@ And Add this to `build.hxml`
 
 ---
 
-Example Usage
+## Example Usage
 
 ```Haxe
 import nebula.tjson.nTJSON;
@@ -104,7 +104,7 @@ Output:
 
 ---
 
-License – Nebula License
+## License – Nebula License
 
 This software is open and free to use in personal or commercial projects.
 
@@ -117,7 +117,7 @@ By using this software, you agree to comply with this rule.
 
 ---
 
-Credits
+## Credits
 
 Developed by yNeoNova.
 
