@@ -1,0 +1,27 @@
+# === General ===
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+*.lock
+*.log
+
+# === Haxe ===
+.haxelib/
+export/
+bin/
+build/
+dist/
+out/
+
+# === Compiled output ===
+*.n
+
+# === OS-specific ===
+# Windows
+Desktop.ini
+
+# macOS
+.DS_Store
