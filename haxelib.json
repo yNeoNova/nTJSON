@@ -1,0 +1,10 @@
+{
+  "name": "nTJSON",
+  "license": "Nebula",
+  "tags": ["json","tjson","tolerant","parser"],
+  "description": "Tolerant JSON parser and encoder used for Nebula Engine",
+  "contributors": ["devLeo"],
+  "releasenote": "Initial Release.",
+  "version": "1.0.0",
+  "url": "https://github.com/yNeoNova/nTJSON"
+}
